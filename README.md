@@ -1,6 +1,6 @@
 ## Hi! I'm Daniela 🙎🏻‍♀️
 
-I'm an illustrator and graphic designer student passionate about learning, always looking for new challenges that makes me improve my skills.
+I'm an illustrator and front-end developer student passionate about learning, always looking for new challenges that makes me improve my skills.
 
 - 💻 Currently learning: UX/UI, web development.
 - 🛠 Other tools: PS, AI, Procreate, Figma, Github, Trello.
