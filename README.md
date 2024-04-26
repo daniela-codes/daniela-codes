@@ -1,15 +1,24 @@
 ## Hi! I'm Daniela 🙎🏻‍♀️
 
-I'm an illustrator and front-end developer student passionate about learning, always looking for new challenges that makes me improve my skills.
+I'm an Illustrator, UX/UI Designer and Front-End Development student passionate about learning, always looking for new challenges that makes me improve my skills.
 
-- 💻 Currently learning: UX/UI, web development.
-- 🛠 Other tools: PS, AI, Procreate, Figma, Github, Trello.
+- 💻 Currently learning: UX/UI, Front-End development.
+- 🛠 Other tools: Adobe Photosop, Adobe Illustrator, Adobe Lightroom, Procreate, Figma, GitHub, Trello, Notion.
 
 ## About me
 
 ```
-I love drawing, music, reading books and watching anime ✨ 
+Besides programming, I love to learn languages by myself: English, 日本語 and sometimes German. 📖
+I'm really into drawing, music, reading books and watching anime ✨ 
 ```
+## Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,git,github,html,ai,js,ps,sass,vscode,xd" />
+  </a>
+</p>
+
 ## Contact 📧
 
 <div>
