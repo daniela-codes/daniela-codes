@@ -9,7 +9,7 @@ I'm an Illustrator, UX/UI Designer and Front-End Development student passionate 
 
 ```
 Besides programming, I love to learn languages by myself: English, 日本語 and sometimes German. 📖
-I'm really into drawing, music, reading books and watching anime ✨ 
+I'm really into drawing, movies, reading books and watching anime ✨ 
 ```
 ## Skills
 
