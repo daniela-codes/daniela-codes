@@ -3,7 +3,7 @@
 I'm an Illustrator, UX/UI Designer and Front-End Development student passionate about learning, always looking for new challenges that makes me improve my skills.
 
 - 💻 Currently learning: UX/UI, Front-End development.
-- 🛠 Other tools: Adobe Photosop, Adobe Illustrator, Adobe Lightroom, Procreate, Figma, GitHub, Trello, Notion.
+- 🛠 Other tools: Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Procreate, Figma, GitHub, Trello, Notion.
 
 ## About me
 
