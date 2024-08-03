@@ -1,6 +1,7 @@
 ## Hi! I'm Daniela 🙎🏻‍♀️
 
 I'm an Illustrator, UX/UI Designer and Front-End Development student passionate about learning, always looking for new challenges that makes me improve my skills.
+I have a strong focus on accessibility and performance optimization, ensuring that the websites I build are accessible to everyone and load quickly. I excel in my ability to work in a team and communicate effectively with designers and other developers.
 
 - 💻 Currently learning: UX/UI, Front-End development.
 - 🛠 Other tools: Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Procreate, Figma, GitHub, Trello, Notion.
