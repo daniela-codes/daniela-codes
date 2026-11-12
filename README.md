@@ -1,6 +1,6 @@
 ## Hi! I'm Daniela 🙎🏻‍♀️
 
-I'm an Illustrator, UX/UI Designer and Front-End Development student passionate about learning, always looking for new challenges that makes me improve my skills.
+I'm an Graphic Designer, UX/UI and Front-End Development passionate about learning, always looking for new challenges that makes me improve my skills.
 <br>I have a strong focus on accessibility and performance optimization, ensuring that the websites I build are accessible to everyone and load quickly. I excel in my ability to work in a team and communicate effectively with designers and other developers.
 
 - 💻 Currently learning: Programmer analyst.
